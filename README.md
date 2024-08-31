@@ -45,7 +45,7 @@ This is a beautifully designed Burger App developed using Flutter. The app allow
 
 ## Visuals
 
-- **Video Demonstration**: [Watch Video](screenshots/burger_app.mp4)
+- **Video Demonstration**: [Watch Video](https://drive.google.com/file/d/1LcaNo0x5VMatmiq0HVWbMJhboY99WOFu/view?usp=sharing)
 
 ## Technologies Used
 
